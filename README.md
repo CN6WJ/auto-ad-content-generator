@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/27191000/README.md)[Uploading READ# Auto Ad Content Generator
+Auto Ad Content Generator
 
 This project uses MiMo V2.5's multimodal capabilities to automatically generate advertising content, including text, images, and videos. It aims to solve challenges in ad creation such as cost, time, and creativity consistency.
 
